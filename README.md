@@ -24,9 +24,9 @@ Welcome to my GitHub profile!
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs) -->
 
 ## 🌐 Connect with Me
-[![email](https://img.shields.io/badge/E-mail-Visit-grey)](https://fs60faizan@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-send-green)](https://fs60faizan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/faizan-shaikh-79413118b/)
-[![instagram](https://img.shields.io/badge/instagram-Visit-pink)](https://www.instagram.com/__.faizan_shaikh._/)
+[![instagram](https://img.shields.io/badge/instagram-follow-purple)](https://www.instagram.com/__.faizan_shaikh._/)
 
 ## 🤝 Let's Collaborate
 
